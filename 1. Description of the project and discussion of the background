@@ -1,8 +1,0 @@
-
-This Coursera Capstone Project aims to apply data science to find a solution to a business problem.
-The founders of a small business in the city center of Milan (the 'Centro Storico' borough) are witnessing an explosion in their activities and are no longer able to meet the ever-increasing demand of their customers.
-Eager to expand by opening a second location, they are stuck in the phase of choosing the perfect place. 
-An accurate analysis of the current customer base, highlights that a key factor of the ongoing success is the peculiar environment, made of shops, restaurants, offices, by which the current location is surrounded. 
-The customer's desire is to be able to find a customer base as similar as possible to the original one. 
-Which areas of Milan are most similar to the 'Centro Storico' in terms of inhabitants' lifestyle? 
-Applying machine learning techniques, we are going to segment and cluster the city, trying to find out similarities and dissimilarities among its 9 boroughs.
